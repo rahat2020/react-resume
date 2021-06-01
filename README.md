@@ -72,5 +72,4 @@ npm run build
 ## Contribute
 Show your support by ⭐ the project. Pull requests are always welcome.
 
-## License
-GNU Lesser General Public License v3.0
+
